@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/kiva_project.iml" filepath="$PROJECT_DIR$/.idea/kiva_project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../roller_coaster_proj/.idea/roller_coaster_proj.iml" filepath="$PROJECT_DIR$/../roller_coaster_proj/.idea/roller_coaster_proj.iml" />
+    </modules>
+  </component>
+</project>
